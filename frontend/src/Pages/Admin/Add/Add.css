@@ -1,0 +1,17 @@
+.Addpage{
+    height: 84vh;
+    width: 100%;
+}
+.Addpage h1{
+    text-align: center;
+    margin-top: 40px;
+}
+.buttonspace{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 50px;
+}
+form{
+    margin-top: 25px;
+}

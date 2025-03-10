@@ -1,0 +1,60 @@
+.explorepage{
+    margin: 20px;
+}
+.img1{
+    width: 100%;
+    height: 90vh;
+}
+.shopbycat{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 15px;
+    margin-left: 90px;
+}
+.shopbycat img{
+    width: 75%;
+}
+.shopbycath2{
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-left: 90px;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.shopbycat h3{
+    text-align: center;
+    margin-left: -100px;
+}
+.statementimg{
+    width: 100%;
+}
+.statement{
+    margin-top: 150px;
+}
+.statement h1{
+    text-align: center;
+    font-size: 40px;
+}
+.statement p{
+    text-align: center;
+}
+.contact{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 70px;
+}
+.footerp{
+    text-align: center;
+    font-size: 18px;
+}
+.socials {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fa-brands{
+    font-size: 30px;
+    margin: 10px;
+    color: black;
+}

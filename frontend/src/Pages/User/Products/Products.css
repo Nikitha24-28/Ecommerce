@@ -1,0 +1,52 @@
+.productspage{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.productimg{
+    width: 100%;
+    height: 80%;
+}
+.Skin{
+    display: flex;
+}
+.Hair{
+    display: flex;
+}
+.Body{
+    display: flex;
+}
+.product-card{
+    height: 75vh;
+    width: 20%;
+    margin: 25px;
+    margin-bottom: 35px;
+}
+.productname{
+    font-size: 25px;
+    margin-left: 10px;
+}
+.Addtocartbtn{
+    height: 9%;
+    width: 100%;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+}
+.productprice{
+    font-size: 20px;
+    margin: 10px;
+}
+.productsh1{
+    font-size: 45px;
+    text-align: center;
+    margin-top: 20px;
+}
+.productsp{
+    font-size: 18px;
+    text-align: center;
+}
+.title{
+    font-size: 35px;
+    margin-left: 25px;
+    margin-top: 20px;
+}

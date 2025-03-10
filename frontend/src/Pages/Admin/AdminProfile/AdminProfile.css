@@ -1,0 +1,28 @@
+.adminpfppage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 87vh;
+    width: 90%;
+    margin-left: 150px;
+    margin-top: 60px;
+}
+.adminpfp{
+    width: 40%;
+    height: 80vh;
+}
+.adminpfp img{
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+}
+.pfpname{
+    font-size: 50px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.pfpmail{
+    font-size: 30px;
+    margin-left: 70px;
+    margin-top: 20px;
+}

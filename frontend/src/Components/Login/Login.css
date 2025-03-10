@@ -1,0 +1,46 @@
+.loginpage{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background-image: url("https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2024-10/Untitled%20design%20-%202024-10-28T144253.045.jpg");
+}
+.Loginbox{
+    
+    height: 70vh;
+    width: 23%;
+    border-style: solid;
+    border-color: black;
+    filter: brightness(2000%);
+    margin-left: 100px;
+    border-radius: 9px;
+}
+.inputbox{
+    width: 80%;
+    height:40px;
+    border-style: solid;
+    border-color: black;
+    color: black;
+    margin-left: 30px;
+    margin-bottom: 40px;
+    border-radius: 7px;
+}
+.Loginbox h1{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+.signin{
+    height: 40px;
+    width: 50%;
+    margin-left: 80px;
+    border-style: solid;
+    border-color: black;
+    color: black;
+    font-size: 18px;
+}
+.skiplink{
+    margin-left: 250px;
+    margin: 120px;
+    margin-top: 110px;
+}
