@@ -5,20 +5,20 @@ This project provides basic ecommerce functionality including product display, r
 
 ## Tech Stack
 
-**Frontend**
+**Frontend**                                       
 ✔ React (Vite)  
 ✔ Material UI  
 ✔ Axios for API requests  
 ✔ React Router (routing)  
 ✔ Font Awesome icons
 
-**Backend**
+**Backend**                                                
 ✔ Node.js + Express  
 ✔ MySQL database  
 ✔ CORS & body-parser middleware  
 ✔ dotenv for environment configuration
 
-## Features
+## Features                                                         
 
 ✨ Product browsing & list view  
 ✨ Product details page  
